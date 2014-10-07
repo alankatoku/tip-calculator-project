@@ -10,4 +10,3 @@ Took an additional 1.5 hours of working thorugh the process - github, readme, up
 http://stackoverflow.com/questions/25126188/bridgetoobjectivec-and-makeobjectsperformselector-in-swift-beta-5
 
 
-(Still working on it)
